@@ -1,0 +1,149 @@
+{
+    "courses": [
+      {
+        "title": "HTML Basics",
+        "id":1,
+        "img":"https://ittrainingclasses.in/image/html1.jpeg",
+        "instructor": "John Smith",
+        "description": "In the 'Introduction to HTML' course, you will dive into the world of Hypertext Markup Language (HTML) and learn the fundamental building blocks of creating structured web pages. Over the span of 4 weeks, you will gain a comprehensive understanding of HTML elements, tags, attributes, and their significance in web development. Through hands-on exercises and projects, you will learn how to create well-organized content, format text, insert images, add links, and create forms using HTML. Additionally, you will explore the best practices for creating accessible and semantically structured web pages. This course is designed for beginners with no prior experience in HTML and provides a solid foundation for further web development studies. By the end of this course, you will have the skills necessary to create basic web pages using HTML and be ready to take the next steps in your journey to becoming a web developer.",
+        "duration": "4 weeks",
+        "videos": [
+          {
+            "title": "Introduction to HTML",
+            "url": "https://www.youtube.com/watch?v=_bjfDQWG65c&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=1&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=yxlmMJRkp-Q&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=2&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=f8WPrRGSIsk&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=3&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=WqxFGOcAwbw&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=4&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=-TBVIaqkVyk&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=5&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=3XSSqvnoZHM&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=6&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=ykvj0Qa3dZU&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=7&pp=iAQB"
+          },
+          {
+            "title": "HTML Tags and Elements",
+            "url": "https://www.youtube.com/watch?v=XblTR_mzpnA&list=PLSNRR4BKcowDF5Mf7zPznfRwfTzmZpSNL&index=10&pp=iAQB"
+          }
+        ]
+      },
+      {
+        "title": "CSS Fundamentals",
+        "id":2,
+        "img":"https://img-c.udemycdn.com/course/750x422/4112256_02fd.jpg",
+        "instructor": "Jane Doe",
+        "description": "The 'CSS Styling Techniques' course is an immersive 3-week journey into the world of Cascading Style Sheets (CSS). CSS is a powerful language used to enhance the visual appearance of web pages and create stunning user interfaces. Throughout this course, you will explore various CSS styling techniques, including selectors, properties, and values, to manipulate the layout, colors, typography, and other aspects of web design. You will learn how to create responsive designs that adapt to different screen sizes and devices, and discover the principles of CSS positioning and layout models. Through hands-on exercises and projects, you will gain practical experience in applying CSS styles to create visually appealing and user-friendly web pages. Whether you are a beginner or have some experience with CSS, this course will equip you with the skills to take your web design abilities to the next level.",
+        "duration": "3 weeks",
+        "videos": [
+          {
+            "title": "CSS Selectors",
+            "url": "https://www.youtube.com/watch?v=MLa5A8q47VQ&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO&index=2&pp=iAQB"
+          },
+          {
+            "title": "CSS Selectors",
+            "url": "https://www.youtube.com/watch?v=_5TU7eXKeyk&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO&index=3&pp=iAQB"
+          },
+          {
+            "title": "CSS Selectors",
+            "url": "https://www.youtube.com/watch?v=9U--RckH_IM&list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO&index=4&pp=iAQB"
+          }
+        ]
+      },
+      {
+        "title": "JavaScript for Beginners",
+        "id":3,
+        "img":"https://www.mycslab.in/wp-content/uploads/2020/01/mycslab-javascript-course-1024x576.png",
+        "instructor": "David Johnson",
+        "description": "The 'JavaScript Fundamentals' course is a comprehensive 6-week program designed to provide you with a solid foundation in JavaScript programming. JavaScript is a versatile programming language that plays a crucial role in modern web development. In this course, you will learn the basics of JavaScript, including variables, data types, operators, control structures, and functions. You will also explore more advanced topics such as arrays, objects, events, and DOM manipulation. Through a combination of interactive lessons, coding exercises, and projects, you will gain practical experience in writing JavaScript code and solving real-world problems. By the end of the course, you will have a strong understanding of JavaScript fundamentals and be well-prepared to dive deeper into the world of web development.",
+        "duration": "6 weeks",
+        "videos": [
+          {
+            "title": "Introduction to JavaScript",
+            "url": "https://www.youtube.com/watch?v=HouzPhGpeGs&list=PLSNRR4BKcowCjiIaG6n6H9BYjXbRkgn_A&index=1&pp=iAQB"
+          },
+          {
+            "title": "Variables and Data Types",
+            "url": "https://www.youtube.com/watch?v=sz9v74n1-PM&list=PLSNRR4BKcowCjiIaG6n6H9BYjXbRkgn_A&index=2&pp=iAQB"
+          },
+          {
+            "title": "Variables and Data Types",
+            "url": "https://www.youtube.com/watch?v=hZFIrpqdrAA&list=PLSNRR4BKcowCjiIaG6n6H9BYjXbRkgn_A&index=3&pp=iAQB"
+          },
+          {
+            "title": "Variables and Data Types",
+            "url": "https://www.youtube.com/watch?v=6HhZIHbCH1Y&list=PLSNRR4BKcowCjiIaG6n6H9BYjXbRkgn_A&index=4&pp=iAQB"
+          }
+        ]
+      },
+      {
+        "title": "ReactJS Crash Course",
+        "id":4,
+        "img":"https://skillsdynamix.com/wp-content/uploads/2020/06/reactjsh.jpg",
+        "instructor": "Emily Williams",
+        "description": "The 'ReactJS Fundamentals' course is a comprehensive program designed to provide you with a strong foundation in ReactJS - a popular JavaScript library for building user interfaces. Over the span of 8 weeks, you will learn the core concepts of ReactJS, including components, JSX, state management, and routing. Through hands-on projects and real-world examples, you will gain practical experience in building interactive and dynamic web applications. Additionally, you will explore advanced topics such as React Hooks and context API to enhance your development skills. By the end of the course, you will be able to create scalable and efficient ReactJS applications",
+        "duration": "5 weeks",
+        "videos": [
+          {
+            "title": "Getting Started with ReactJS",
+            "url": "https://example.com/react-getting-started"
+          },
+          {
+            "title": "Components and Props",
+            "url": "https://example.com/react-components"
+          }
+        ]
+      },
+      {
+        "title": "MongoDB Essentials",
+        "id":5,
+        "img":"https://www.mongodb.com/docs/assets/meta_generic.png",
+        "instructor": "Michael Brown",
+        "description": "The 'MongoDB Essentials' course is designed to introduce you to MongoDB, a popular NoSQL database. Over 4 weeks, you will learn the basics of MongoDB, including document-oriented data modeling, CRUD operations, querying, and aggregation. Through hands-on exercises, you will gain practical experience in working with MongoDB and understand its advantages for building scalable and flexible databases. By the end of the course, you will be equipped with the essential skills to integrate MongoDB into your web applications.",
+        "duration": "4 weeks",
+        "videos": [
+          {
+            "title": "Introduction to MongoDB",
+            "url": "https://example.com/mongodb-intro"
+          },
+          {
+            "title": "CRUD Operations in MongoDB",
+            "url": "https://example.com/mongodb-crud"
+          }
+        ]
+      },
+      {
+        "title": "Firebase for Web Development",
+        "id":6,
+        "img":"https://firebase.google.com/images/social.png",
+        "instructor": "Sarah Davis",
+        "description": "The 'Firebase Development Essentials' course is designed to introduce you to Firebase - a comprehensive platform for building web and mobile applications. Throughout this 6-week course, you will learn how to utilize various Firebase services such as Firebase Authentication, Firestore (NoSQL database), Cloud Functions, and Cloud Storage. You will gain hands-on experience in integrating Firebase into your projects, enabling real-time data synchronization, user authentication, and cloud-based storage solutions. Moreover, you will explore advanced features like Firebase Hosting and Firebase Analytics. By the end of the course, you will have the skills to develop robust and scalable applications using Firebase.",
+        "duration": "3 weeks",
+        "videos": [
+          {
+            "title": "Introduction to Firebase",
+            "url": "https://example.com/firebase-intro"
+          },
+          {
+            "title": "Authentication with Firebase",
+            "url": "https://example.com/firebase-auth"
+          }
+        ]
+      }
+    ]
+  }
+  
